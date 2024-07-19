@@ -1,5 +1,3 @@
-Great! Here's a possible way to fill out your prompts:
-
 - 👋 Hi, I’m @DragonAI1982
 - 👀 I’m interested in Machine Learning (ML), Natural Language Processing (NLP), and Python programming.
 - 🌱 I’m currently learning how to use OpenAI's Copilot for my coding projects.
